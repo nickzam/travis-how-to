@@ -95,16 +95,15 @@ Example for testing with cucumber, capybara, capybara-webkit, htttparty
 7. You will see configuration for Travis with internal key filled in. 
 8. Click Test, then Update
 
-Great you have connected your github account project with [travis][] !
+Great, you have connected your github account project with [travis][] !
 
-Other links:
+# Other links:
 1. [travis-start][]
 2. [travis-docs][]
 
-Happy CI with Travis!
+*Happy CI with Travis!*
 
-Mykola Zamkovoi
-nickzam@gmail.com
+Mykola Zamkovoi nickzam@gmail.com
 
 [travis]: http://travis-ci.org/                     "Travis CI"
 [travis-docs]: http://about.travis-ci.org/docs/     "Travis Docs"
